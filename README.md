@@ -2,8 +2,8 @@
 
 <p align="center">
   <img
-    width="150"
-    height="150"
+    width="280"
+    height="210"
     src="https://raw.githubusercontent.com/frenemy17/frenemy17/main/assets/pixel-avatar.png"
     alt="pixel avatar"
     style="border-radius:8px"
@@ -60,6 +60,10 @@ Contact: siddhanth.raikar2024@nst.rishihood.edu.in
 </div>
 
 <div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=frenemy17&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=frenemy17&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
@@ -67,7 +71,7 @@ Contact: siddhanth.raikar2024@nst.rishihood.edu.in
 
 ### Contributions, in 3D
 
-<img src="https://raw.githubusercontent.com/frenemy17/frenemy17/output/profile-green-animate.svg" width="100%" alt="3D contribution graph" />
+<img src="https://raw.githubusercontent.com/frenemy17/frenemy17/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph" />
 
 ### Contributions, eaten one cell at a time
 
