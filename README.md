@@ -1,49 +1,48 @@
 <div align="center">
-  <img src="./assets/ai-systems-banner.svg" width="100%" alt="Siddhanth Raikar — AI systems for practical workflows" />
+  <img src="https://github.com/frenemy17.png?size=180" width="140" height="140" alt="Siddhanth Raikar" />
+
+  <h1>Siddhanth Raikar</h1>
+  <p><b>AI Engineer · Agentic Systems · Retrieval-Augmented Generation</b></p>
+
+  <a href="https://www.linkedin.com/in/siddhanth-raikar-916a792aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:siddhanth.raikar2024@nst.rishihood.edu.in"><img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=frenemy17&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
-
-<br />
-
-<table>
-  <tr>
-    <td width="21%" valign="top" align="center">
-
-<img src="./assets/siddhanth-raikar.jpg" width="190" alt="Siddhanth Raikar in the mountains" />
-
-    </td>
-    <td width="52%" valign="top">
-
-## About
-
-I am an AI Engineer focused on agentic systems, retrieval-augmented generation, and dependable AI products. I design and build systems that translate complex workflows into practical tools.
-
-My work spans multi-agent orchestration, retrieval architecture, and production-oriented application engineering. I am currently seeking a **remote AI/ML internship** and am available to begin immediately.
-
-    </td>
-    <td width="27%" valign="top">
-
-## Connect
-
-<a href="https://www.linkedin.com/in/siddhanth-raikar-916a792aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-<a href="mailto:siddhanth.raikar2024@nst.rishihood.edu.in"><img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Siddhanth" /></a>
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=frenemy17&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views" />
-
-    </td>
-  </tr>
-</table>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/MULTI--AGENT_ORCHESTRATION-6D28D9?style=for-the-badge" alt="Multi-agent orchestration" />
-  <img src="https://img.shields.io/badge/RAG_ARCHITECTURE-0F766E?style=for-the-badge" alt="RAG architecture" />
-  <img src="https://img.shields.io/badge/LANGGRAPH_WORKFLOWS-B45309?style=for-the-badge" alt="LangGraph workflows" />
-  <img src="https://img.shields.io/badge/APPLIED_LLM_SYSTEMS-1D4ED8?style=for-the-badge" alt="Applied LLM systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=600&size=19&pause=1800&color=6D28D9&center=true&vCenter=true&width=720&lines=Building+reliable+AI+systems+for+practical+workflows.;Agent+orchestration+%C2%B7+retrieval+architecture+%C2%B7+AI+products." alt="Building reliable AI systems for practical workflows" />
 </div>
+
+---
+
+<table>
+  <tr>
+    <td width="62%" valign="top">
+
+## About
+
+I am an AI Engineer focused on designing agentic systems, retrieval-augmented generation pipelines, and dependable AI products. I build practical applications that connect relevant knowledge, deliberate orchestration, and measurable outcomes.
+
+I am currently seeking a **remote AI/ML internship** and am available to begin immediately.
+
+    </td>
+    <td width="38%" valign="top">
+
+## Areas of focus
+
+<img src="https://img.shields.io/badge/Multi--agent_orchestration-6D28D9?style=flat-square" alt="Multi-agent orchestration" />
+
+<img src="https://img.shields.io/badge/RAG_architecture-0F766E?style=flat-square" alt="RAG architecture" />
+
+<img src="https://img.shields.io/badge/LangGraph_workflows-B45309?style=flat-square" alt="LangGraph workflows" />
+
+<img src="https://img.shields.io/badge/Applied_LLM_systems-1D4ED8?style=flat-square" alt="Applied LLM systems" />
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -53,24 +52,22 @@ My work spans multi-agent orchestration, retrieval architecture, and production-
   <tr>
     <td width="50%" valign="top">
 
-### estatex
+### [estatex](https://github.com/frenemy17/estatex)
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/frenemy17/estatex)
 [![Live demo](https://img.shields.io/badge/Live_demo-6D28D9?style=flat-square&logo=vercel&logoColor=white)](https://estatex-dun.vercel.app/)
 
-Multi-agent lead-management platform built with a LangGraph state machine and human-in-the-loop interruption points. The project is supported by **138+ automated tests**.
+Multi-agent lead-management platform built with a LangGraph state machine and human-in-the-loop interruption points. Supported by **138+ automated tests**.
 
 `LangGraph` `Python` `Agent workflows` `Testing`
 
     </td>
     <td width="50%" valign="top">
 
-### gemTrack
+### [gemTrack](https://github.com/frenemy17/gemTrack)
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/frenemy17/gemTrack)
 [![Live demo](https://img.shields.io/badge/Live_demo-6D28D9?style=flat-square&logo=vercel&logoColor=white)](https://gem-track-five.vercel.app/)
 
-Full-stack point-of-sale system for jewellery retail, with live gold-price billing and a search experience optimised for **10,000+ SKUs**.
+Full-stack point-of-sale system for jewellery retail, with live gold-price billing and search optimised for **10,000+ SKUs**.
 
 `Next.js` `Prisma` `PostgreSQL` `Search optimisation`
 
@@ -79,9 +76,7 @@ Full-stack point-of-sale system for jewellery retail, with live gold-price billi
   <tr>
     <td width="50%" valign="top">
 
-### wraft
-
-[![Live demo](https://img.shields.io/badge/Live_demo-6D28D9?style=flat-square&logo=vercel&logoColor=white)](https://wraft-website-phi.vercel.app/)
+### [wraft](https://wraft-website-phi.vercel.app/)
 
 Multi-tenant RAG chatbot platform covering document ingestion, chunking, embedding generation, vector retrieval, and delivery through WhatsApp and the web.
 
@@ -90,9 +85,8 @@ Multi-tenant RAG chatbot platform covering document ingestion, chunking, embeddi
     </td>
     <td width="50%" valign="top">
 
-### genAI-project
+### [genAI-project](https://github.com/frenemy17/genAI-project)
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/frenemy17/genAI-project)
 [![Live demo](https://img.shields.io/badge/Live_demo-6D28D9?style=flat-square&logo=streamlit&logoColor=white)](https://genai-project-3tze9npwg4iz22mhjssdq3.streamlit.app/)
 
 Five-node agent harness for exam gap analysis, incorporating a Bloom’s Taxonomy classifier with **91.19% accuracy**.
@@ -139,8 +133,6 @@ flowchart LR
     class E,F outcome
 ```
 
-<div align="center"><sub>My preferred pattern: systems that combine relevant context, explicit orchestration, human judgment, and measurable feedback.</sub></div>
-
 ---
 
 ## Open-source activity
@@ -151,8 +143,6 @@ flowchart LR
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frenemy17/frenemy17/output/github-contribution-grid-snake.svg" />
     <img alt="Animated GitHub contribution graph" src="https://raw.githubusercontent.com/frenemy17/frenemy17/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
-  <br />
-  <sub>The animation appears after the GitHub Actions workflow has completed its first run.</sub>
 </div>
 
 <br />
@@ -166,7 +156,7 @@ flowchart LR
 
 <div align="center">
   <h3>Open to AI/ML internship opportunities</h3>
-  <p>I am interested in contributing to teams building thoughtful agentic products, applied LLM systems, and robust AI infrastructure.</p>
+  <p>I am interested in contributing to teams building agentic products, applied LLM systems, and robust AI infrastructure.</p>
   <p>
     <a href="mailto:siddhanth.raikar2024@nst.rishihood.edu.in"><b>siddhanth.raikar2024@nst.rishihood.edu.in</b></a>
     &nbsp;·&nbsp;
