@@ -1,38 +1,36 @@
 <div align="center">
-  <img src="./assets/pixel-avatar.png" width="132" alt="Siddhanth Raikar" />
-
-  <h1>Siddhanth Raikar</h1>
-  <p><b>AI Engineer focused on agentic systems, retrieval-augmented generation, and dependable AI products.</b></p>
-
-  <a href="https://www.linkedin.com/in/siddhanth-raikar-916a792aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:siddhanth.raikar2024@nst.rishihood.edu.in"><img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Siddhanth" /></a>
-  <img src="https://komarev.com/ghpvc/?username=frenemy17&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="./assets/ai-systems-banner.svg" width="100%" alt="Siddhanth Raikar — AI systems for practical workflows" />
 </div>
 
 <br />
 
 <table>
   <tr>
-    <td width="64%" valign="top">
+    <td width="21%" valign="top" align="center">
 
-## Profile
-
-I design and build AI systems that translate complex workflows into practical products. My work spans multi-agent orchestration, retrieval-augmented generation, and production-oriented application engineering.
-
-I am currently seeking a **remote AI/ML internship** and am available to begin immediately.
+<img src="./assets/siddhanth-raikar.jpg" width="190" alt="Siddhanth Raikar in the mountains" />
 
     </td>
-    <td width="36%" valign="top">
+    <td width="52%" valign="top">
 
-## Focus areas
+## About
 
-<img src="https://img.shields.io/badge/Multi--agent_orchestration-6D28D9?style=flat-square" alt="Multi-agent orchestration" />
+I am an AI Engineer focused on agentic systems, retrieval-augmented generation, and dependable AI products. I design and build systems that translate complex workflows into practical tools.
 
-<img src="https://img.shields.io/badge/RAG_architecture-0F766E?style=flat-square" alt="RAG architecture" />
+My work spans multi-agent orchestration, retrieval architecture, and production-oriented application engineering. I am currently seeking a **remote AI/ML internship** and am available to begin immediately.
 
-<img src="https://img.shields.io/badge/LangGraph_workflows-B45309?style=flat-square" alt="LangGraph workflows" />
+    </td>
+    <td width="27%" valign="top">
 
-<img src="https://img.shields.io/badge/Applied_LLM_systems-1D4ED8?style=flat-square" alt="Applied LLM systems" />
+## Connect
+
+<a href="https://www.linkedin.com/in/siddhanth-raikar-916a792aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<a href="mailto:siddhanth.raikar2024@nst.rishihood.edu.in"><img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Siddhanth" /></a>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=frenemy17&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views" />
 
     </td>
   </tr>
@@ -41,7 +39,10 @@ I am currently seeking a **remote AI/ML internship** and am available to begin i
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=600&size=18&pause=1800&color=6D28D9&center=true&vCenter=true&width=680&lines=Designing+reliable+AI+systems+for+real+workflows.;From+retrieval+pipelines+to+multi-agent+products." alt="Designing reliable AI systems for real workflows" />
+  <img src="https://img.shields.io/badge/MULTI--AGENT_ORCHESTRATION-6D28D9?style=for-the-badge" alt="Multi-agent orchestration" />
+  <img src="https://img.shields.io/badge/RAG_ARCHITECTURE-0F766E?style=for-the-badge" alt="RAG architecture" />
+  <img src="https://img.shields.io/badge/LANGGRAPH_WORKFLOWS-B45309?style=for-the-badge" alt="LangGraph workflows" />
+  <img src="https://img.shields.io/badge/APPLIED_LLM_SYSTEMS-1D4ED8?style=for-the-badge" alt="Applied LLM systems" />
 </div>
 
 ---
@@ -115,6 +116,30 @@ Five-node agent harness for exam gap analysis, incorporating a Bloom’s Taxonom
 | AI engineering | Application development | Data infrastructure |
 | :--- | :--- | :--- |
 | LangGraph · RAG · tool use · agent evaluation | FastAPI · Next.js · Node.js | PostgreSQL · MongoDB · Redis · ChromaDB |
+
+---
+
+## Systems approach
+
+```mermaid
+flowchart LR
+    A[Business workflow] --> B[Knowledge and tools]
+    B --> C[Retrieval layer]
+    C --> D[Agent orchestration]
+    D --> E[Human review]
+    E --> F[Application outcome]
+    D -. evaluation and observability .-> G[Continuous improvement]
+    G -.-> B
+
+    classDef source fill:#E0F2FE,stroke:#0284C7,color:#0C4A6E
+    classDef system fill:#EDE9FE,stroke:#6D28D9,color:#3B0764
+    classDef outcome fill:#DCFCE7,stroke:#16A34A,color:#14532D
+    class A,B source
+    class C,D,G system
+    class E,F outcome
+```
+
+<div align="center"><sub>My preferred pattern: systems that combine relevant context, explicit orchestration, human judgment, and measurable feedback.</sub></div>
 
 ---
 
