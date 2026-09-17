@@ -1,53 +1,35 @@
-<div align="right">
-<img src="./assets/pixel-avatar.png" width="150" alt="pixel avatar" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:2B4C7E&height=200&section=header&text=Siddhanth%20Raikar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%94%20Agentic%20Systems%20%26%20RAG&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
+  
+  <a href="https://www.linkedin.com/in/siddhanth-raikar-916a792aa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:siddhanth.raikar2024@nst.rishihood.edu.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/frenemy17">
+    <img src="https://komarev.com/ghpvc/?username=frenemy17&style=for-the-badge&color=2B4C7E&label=Profile+Views" alt="Profile views" />
+  </a>
+  <br/><br/>
+  
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2B4C7E&center=true&vCenter=true&width=650&lines=Designing+multi-agent+systems+that+actually+ship;LangGraph+%7C+RAG+%7C+State+Machine+Design;Currently%3A+open+to+remote+AI%2FML+internships" alt="Typing SVG" />
 </div>
 
-```
-┌──────────────────────────────────────────────────────────┐
-│  siddhanth@raikar:~$ whoami                               │
-│  AI Engineer — Agentic Systems & RAG                       │
-│                                                            │
-│  siddhanth@raikar:~$ cat focus.txt                         │
-│  > multi-agent orchestration                                │
-│  > RAG pipeline architecture                                │
-│  > agent harness design (LangGraph)                          │
-│                                                            │
-│  siddhanth@raikar:~$ status --internship                   │
-│  open_to: remote AI/ML internships                          │
-│  available: immediately                                     │
-└──────────────────────────────────────────────────────────┘
-```
-
-### 🐍 live from my contribution graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frenemy17/frenemy17/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frenemy17/frenemy17/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/frenemy17/frenemy17/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-*(shows up once the workflow below has run — see setup, step 3)*
-
 ---
 
-### ~/projects
+### 💻 System Status
 
-**[estatex](https://github.com/frenemy17/estatex)** — multi-agent lead-management system. LangGraph state machine, human-in-the-loop interrupts, 138+ automated tests. → [demo](https://estatex-dun.vercel.app/)
-
-**[gemTrack](https://github.com/frenemy17/gemTrack)** — full-stack POS for jewelry retail, live gold-price billing, 10k+ SKU search optimization. → [demo](https://gem-track-five.vercel.app/)
-
-**wraft** — multi-tenant RAG chatbot SaaS, ingestion → chunking → embedding → vector-store pipeline, WhatsApp + web delivery. → [demo](https://wraft-website-phi.vercel.app/)
-
-**[genAI-project](https://github.com/frenemy17/genAI-project)** — 5-node agent harness for exam gap-analysis, Bloom's Taxonomy classifier (91.19% accuracy). → [demo](https://genai-project-3tze9npwg4iz22mhjssdq3.streamlit.app/)
-
----
-
-```
-siddhanth@raikar:~$ cat stack.txt
-Python · LangGraph · FastAPI · Next.js · Node.js
-MongoDB · PostgreSQL · Redis · ChromaDB · Prisma
-
-siddhanth@raikar:~$ contact --linkedin --email
-linkedin   linkedin.com/in/siddhanth-raikar-916a792aa
-email      siddhanth.raikar2024@nst.rishihood.edu.in
-```
+```console
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  👤 siddhanth@raikar:~$ whoami                                              │
+│  🤖 AI Engineer & Data Science Undergrad @ Newton School of Tech ('24-'28)  │
+│                                                                             │
+│  🔍 siddhanth@raikar:~$ cat focus.txt                                       │
+│  > Multi-agent orchestration & state machine design                         │
+│  > Scalable RAG pipeline architectures (Vector Stores, Chunking)            │
+│  > Production-grade LLM backends (Not just API calls—real routing logic)    │
+│                                                                             │
+│  💼 siddhanth@raikar:~$ status --internship                                 │
+│  [status] open_to: "Remote AI/ML Internships"                               │
+│  [status] available: "Immediately (Flexible US/EU overlap)"                 │
+└─────────────────────────────────────────────────────────────────────────────┘
